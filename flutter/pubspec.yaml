@@ -1,0 +1,38 @@
+name: flutter_restapi
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  get: ^4.7.2
+  get_storage: ^2.1.1
+  cached_network_image: ^3.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/casio.jpg
+    - assets/fossil.webp
+    - assets/g-shock.jpg
+    - assets/g-shock2.jpg
+    - assets/jam tangan anak flik flak.png
+    - assets/jam tangan flik flak.png
+    - assets/Rolex elegant.png
+    - assets/rolex elegant.webp
+    - assets/rolex.png
+    - assets/samsung pintar.jpg
+    - assets/samsung.avif
